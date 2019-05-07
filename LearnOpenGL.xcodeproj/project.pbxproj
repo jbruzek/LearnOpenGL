@@ -31,6 +31,7 @@
 		7CED961A2281E52800002D0A /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		7CED961C2281E62900002D0A /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../../../usr/local/Cellar/glfw/3.3/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
 		7CED96222281ED5D00002D0A /* glad.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = glad.c; sourceTree = "<group>"; };
+		7CED96242281FFE300002D0A /* simpleVertexShader.glsl */ = {isa = PBXFileReference; lastKnownFileType = text; path = simpleVertexShader.glsl; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 			children = (
 				7CED96122281E40200002D0A /* main.cpp */,
 				7CED96222281ED5D00002D0A /* glad.c */,
+				7CED96242281FFE300002D0A /* simpleVertexShader.glsl */,
 			);
 			path = LearnOpenGL;
 			sourceTree = "<group>";
